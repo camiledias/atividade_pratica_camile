@@ -8,6 +8,14 @@
 
 <body>
 <img src="imagens/Pizza (1).jfif">
-png
+<a href="cadastro.php"><button>cadastro</button></a>
+
+
+
+
+
 </body>
+ 
+
+
 </html>
